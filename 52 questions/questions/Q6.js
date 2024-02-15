@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var sum = 5 + 3;
+console.log("adddition:", sum);
+var subtract = 11 - 3;
+console.log("subtraction:", subtract);
+var multiply = 4 * 2;
+console.log("multiply:", multiply);
+var divide = 64 / 8;
+console.log("divide:", divide);
